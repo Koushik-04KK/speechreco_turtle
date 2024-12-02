@@ -49,10 +49,15 @@ python3 speech.py
 
 ### Step 6: Give Voice Commands
 Speak the following commands to control the turtle:
-🡆 forward: Move the turtle forward.
-🡆 backward: Move the turtle backward.
-🡆 left: Turn the turtle left.
-🡆 right: Turn the turtle right.
+
+forward: Move the turtle forward.
+
+backward: Move the turtle backward.
+
+left: Turn the turtle left.
+
+right: Turn the turtle right.
+
 Enjoy controlling the turtle hands-free with your voice! 🎉
 
 🎉 Happy Learning!

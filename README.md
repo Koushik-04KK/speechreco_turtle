@@ -27,24 +27,25 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/your-username/voice-controlled-turtlesim.git
 cd voice-controlled-turtlesim
+```
 
 ### Step 3: Install Required Python Packages
 Install the necessary Python dependencies:
 ```bash
-Copy code
 pip install speechrecognition pyaudio --break-system-packages
+```
 
 ### Step 4: Run the Turtlesim Simulator
 Open a terminal and start the turtlesim simulator node:
 ```bash
-Copy code
 ros2 run turtlesim turtlesim_node
+```
 
 ###Step 5: Run the Speech Recognition Script
 In another terminal, execute the Python script for voice control:
 ```bash
-Copy code
 python3 speech.py
+```
 
 ### Step 6: Give Voice Commands
 Speak the following commands to control the turtle:

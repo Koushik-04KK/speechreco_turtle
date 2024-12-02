@@ -61,7 +61,7 @@ right: Turn the turtle right.
 Enjoy controlling the turtle hands-free with your voice! 🎉
 
 🎉 Happy Learning!
-This project is designed to be a fun and educational tool. We hope you enjoy the experience of controlling the turtle with your voice. 🐢✨
+This project is designed to be a fun and educational tool. I hope you enjoy the experience of controlling the turtle with your voice. 🐢✨
 
 🖤 Contributing
 Feel free to fork this repository, submit issues, or make pull requests to enhance this project.

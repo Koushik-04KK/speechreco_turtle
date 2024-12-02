@@ -25,8 +25,8 @@ Follow these steps to set up and run the Voice-Controlled Turtlesim Simulator:
 ### Step 2: Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/voice-controlled-turtlesim.git
-cd voice-controlled-turtlesim
+git clone https://github.com/Koushik-04KK/speechreco_turtle.git
+cd speechreco_turtle
 ```
 
 ### Step 3: Install Required Python Packages
